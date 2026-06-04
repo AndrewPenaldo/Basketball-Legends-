@@ -58,7 +58,7 @@ local runService = game:GetService("RunService")
 local autoGuardLigado = false
 
 -- CONFIGURAÇÃO RECALIBRADA (A SEU PEDIDO)
-local DISTANCIA_NA_FRENTE = 2.5 -- Distância perfeita para marcar sem bugar e sem dar bandeira
+local DISTANCIA_NA_FRENTE = 2.7 -- Distância perfeita para marcar sem bugar e sem dar bandeira
 
 local function obterInimigoMaisProximo()
 local menorDistancia = math.huge
